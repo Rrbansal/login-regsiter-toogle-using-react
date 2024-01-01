@@ -1,0 +1,35 @@
+.reg
+{
+    border: 1px solid black;
+    height:500px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+
+}
+.mainreg
+{
+    display: flex;
+    justify-content: center;
+}
+input
+{
+    padding: 10px;
+    margin:5px;
+    height: 15px;
+    width:400px;
+}
+h1{
+    text-align: center;
+}
+button{
+    height: 40px;
+    width:200px;
+}
+.btn
+{
+    display: flex;
+    justify-content: center;
+}
